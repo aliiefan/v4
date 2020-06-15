@@ -2,6 +2,8 @@
 title: About Me
 avatar: "./me.jpg"
 skills:
+- Mechine Learning
+- Python
 - JavaScript (ES6+)
 - HTML & (S)CSS
 - React
