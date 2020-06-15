@@ -1,8 +1,7 @@
 ---
 title: About Me
-avatar: https://res.cloudinary.com/dr7lswyf4/image/upload/v1592183040/Screenshot_2020-06-15_at_06.31.40_ppldrm.png
+avatar: "/me.jpg"
 skills:
-- "/me.jpg"
 - JavaScript (ES6+)
 - HTML & (S)CSS
 - React
