@@ -5,6 +5,21 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/hero
+  label: hero
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/feature
+  label: feature
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/contact
+  label: contect
+  create: all
+  match: "**/*"
+- type: directory
   path: content/about
   label: About
   create: all
